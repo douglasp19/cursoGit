@@ -34,6 +34,7 @@ namespace Course {
             Console.WriteLine(obj1);
             Console.WriteLine(obj2);
             Console.WriteLine(n6.ToString("F2"));
+            Console.WriteLine("Teste");
         }
     }
 }
